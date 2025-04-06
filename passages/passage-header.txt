@@ -1,0 +1,3 @@
+<hr>\
+<h1 class="passage-title"><<print passage()>></h1>\
+<hr>\

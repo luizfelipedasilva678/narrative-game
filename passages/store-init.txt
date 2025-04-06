@@ -1,0 +1,4 @@
+<<set $goldenKey to 1>>
+<<set $silverKey to 2>>
+<<set $ironKey to 3>>
+<<set $rightKey to random(1,3)>>
